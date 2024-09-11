@@ -64,7 +64,7 @@ tomli==2.0.1
 typing-extensions==4.12.2
 tzdata==2024.1
 urllib3==1.26.20
-werkzeug==2.1.2
+werkzeug==3.0.3
 wrapt==1.16.0
 xmltodict==0.13.0
 zipp==3.20.1
