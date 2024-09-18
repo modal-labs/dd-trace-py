@@ -20,7 +20,7 @@ cryptography==43.0.1
 docker==7.1.0
 ecdsa==0.14.1
 hypothesis==6.45.0
-idna==2.10
+idna==3.7
 iniconfig==2.0.0
 jinja2==2.11.3
 jmespath==1.0.1
