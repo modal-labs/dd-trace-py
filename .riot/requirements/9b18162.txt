@@ -63,7 +63,7 @@ sshpubkeys==3.3.1
 tomli==2.0.1
 types-pyyaml==6.0.12.12
 typing-extensions==4.7.1
-urllib3==1.26.20
+urllib3==1.26.19
 websocket-client==1.6.1
 werkzeug==2.1.2
 wrapt==1.16.0

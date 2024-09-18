@@ -28,7 +28,7 @@ pytest-mock==3.14.0
 requests==2.32.3
 six==1.16.0
 sortedcontainers==2.4.0
-urllib3==2.2.1
+urllib3==1.26.19
 virtualenv-clone==0.5.7
 werkzeug==3.0.3
 wheel==0.43.0

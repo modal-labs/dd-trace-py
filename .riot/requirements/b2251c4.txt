@@ -38,7 +38,7 @@ sortedcontainers==2.4.0
 tracerite==1.1.1
 typing-extensions==4.12.2
 ujson==5.10.0
-urllib3==2.2.2
+urllib3==1.26.19
 uvloop==0.19.0
 websockets==10.4
 

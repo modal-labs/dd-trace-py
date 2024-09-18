@@ -44,6 +44,6 @@ sortedcontainers==2.4.0
 sqlalchemy==2.0.31
 tortoise-orm==0.21.5
 typing-extensions==4.12.2
-urllib3==2.2.2
+urllib3==1.26.19
 werkzeug==3.0.3
 xmltodict==0.13.0

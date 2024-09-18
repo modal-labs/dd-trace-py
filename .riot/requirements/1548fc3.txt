@@ -43,4 +43,4 @@ textual==0.79.1
 tomli==2.0.1
 typing-extensions==4.12.2
 uc-micro-py==1.0.3
-urllib3==2.2.3
+urllib3==1.26.19
