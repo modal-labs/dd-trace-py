@@ -20,5 +20,5 @@ pytest-randomly==3.15.0
 sortedcontainers==2.4.0
 soupsieve==2.5
 waitress==2.1.2
-webob==1.8.7
+webob==1.8.8
 webtest==3.0.0
