@@ -5,7 +5,7 @@
 #    pip-compile --no-annotate .riot/requirements/1fab05e.in
 #
 attrs==23.2.0
-certifi==2024.6.2
+certifi==2024.7.4
 charset-normalizer==3.3.2
 coverage[toml]==7.5.4
 hypothesis==6.45.0
