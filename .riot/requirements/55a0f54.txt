@@ -12,7 +12,7 @@ azure-core==1.29.6
 azure-storage-blob==12.19.0
 boto3==1.33.13
 botocore==1.33.13
-certifi==2020.12.5
+certifi==2024.7.4
 cffi==1.15.1
 chardet==3.0.4
 charset-normalizer==3.3.2
