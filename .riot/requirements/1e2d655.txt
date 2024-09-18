@@ -55,6 +55,6 @@ sqlalchemy==2.0.32
 tenacity==8.5.0
 typing-extensions==4.12.2
 typing-inspect==0.9.0
-urllib3==2.2.2
+urllib3==1.26.19
 werkzeug==3.0.4
 yarl==1.9.4
