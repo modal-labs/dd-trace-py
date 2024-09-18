@@ -30,7 +30,7 @@ tempora==5.6.0
 tomli==2.0.1
 typing-extensions==4.12.2
 zc-lockfile==3.0.post1
-zipp==3.19.2
+zipp==3.19.1
 
 # The following packages are considered to be unsafe in a requirements file:
 setuptools==71.1.0

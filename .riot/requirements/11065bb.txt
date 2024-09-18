@@ -71,7 +71,7 @@ typing-extensions==4.12.2
 urllib3==2.2.2
 wcwidth==0.2.13
 zeep==4.2.1
-zipp==3.20.1
+zipp==3.19.1
 zope-interface==7.0.3
 
 # The following packages are considered to be unsafe in a requirements file:

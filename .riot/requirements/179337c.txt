@@ -37,4 +37,4 @@ tomli==2.0.1
 typing-extensions==4.12.2
 urllib3==1.26.19
 werkzeug==2.3.8
-zipp==3.19.2
+zipp==3.19.1

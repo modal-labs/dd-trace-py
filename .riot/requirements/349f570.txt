@@ -28,7 +28,7 @@ sortedcontainers==2.4.0
 sqlparse==0.5.1
 tomli==2.0.1
 typing-extensions==4.12.2
-zipp==3.19.2
+zipp==3.19.1
 
 # The following packages are considered to be unsafe in a requirements file:
 setuptools==71.1.0

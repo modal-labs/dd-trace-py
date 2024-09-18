@@ -34,4 +34,4 @@ sortedcontainers==2.4.0
 tomli==2.0.1
 wcwidth==0.2.13
 werkzeug==0.16.1
-zipp==3.18.1
+zipp==3.19.1
