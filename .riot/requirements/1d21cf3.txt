@@ -10,7 +10,7 @@ chardet==3.0.4
 coverage[toml]==7.4.2
 exceptiongroup==1.2.0
 hypothesis==6.45.0
-idna==2.10
+idna==3.7
 importlib-metadata==7.0.1
 iniconfig==2.0.0
 mock==5.1.0
