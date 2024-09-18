@@ -79,7 +79,7 @@ werkzeug==3.0.3
 wrapt==1.16.0
 xmltodict==0.13.0
 yarl==1.9.4
-zipp==3.19.2
+zipp==3.19.1
 
 # The following packages are considered to be unsafe in a requirements file:
 setuptools==71.1.0

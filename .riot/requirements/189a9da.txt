@@ -46,7 +46,7 @@ typing-extensions==4.7.1
 urllib3==1.26.19
 wrapt==1.16.0
 yarl==1.9.4
-zipp==3.15.0
+zipp==3.19.1
 zope-event==5.0
 zope-interface==6.4.post2
 
